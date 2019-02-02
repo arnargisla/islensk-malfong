@@ -1,43 +1,29 @@
 ## Hlekkir á heimildir um íslenskt mál.
 
-Orðabók: 
-https://snara.is/
+Orðabók: [https://snara.is/](https://snara.is/)
 
-Leit í gagnasöfnum Árnastofnunar:
-https://málið.is
+Leit í gagnasöfnum Árnastofnunar: [https://málið.is](https://málið.is)
 
-Tilvitnanir og fleira, án skýringa:
-https://tilvitnun.is
+Tilvitnanir og fleira, án skýringa: [https://tilvitnun.is](https://tilvitnun.is)
 
-Beygingarlýsing íslensks nútímamáls:
-http://bin.arnastofnun.is
+Beygingarlýsing íslensks nútímamáls: [http://bin.arnastofnun.is](http://bin.arnastofnun.is)
 
-Skrambi: stafsetningarleiðréttingartól:
-http://skrambi.arnastofnun.is/
+Skrambi villuleit: [http://skrambi.arnastofnun.is/](http://skrambi.arnastofnun.is/)
 
-Yfirlit yfir gagnasöfn á vef Árnastöfnunnar:
-http://www.arnastofnun.is/page/gagnasofn
+Yfirlit yfir gagnasöfn á vef Árnastöfnunnar: [http://www.arnastofnun.is/page/gagnasofn](http://www.arnastofnun.is/page/gagnasofn)
 
-Íslenskt orðanet:
-http://ordanet.arnastofnun.is/
+Íslenskt orðanet: [http://ordanet.arnastofnun.is/](http://ordanet.arnastofnun.is/)
 
-íðorðabanki Íslenskrar málstöðvar.
-http://www.ordabanki.hi.is/wordbank/search
+íðorðabanki Íslenskrar málstöðvar: [http://www.ordabanki.hi.is](http://www.ordabanki.hi.is)
 
-ISLEX orðabókin, norrænar orðabækur.
-http://islex.is/
+ISLEX orðabókin, norrænar orðabækur: [http://islex.is/](http://islex.is/)
 
-Íslensk málföng:
-http://www.malfong.is/
+Íslensk málföng: [http://www.malfong.is/](http://www.malfong.is/)
 
-Íslenskt textasafn:
-http://corpus.arnastofnun.is
+Íslenskt textasafn: [http://corpus.arnastofnun.is](http://corpus.arnastofnun.is)
 
-Óðfræðivefur
-http://bragi.arnastofnun.is/
+Óðfræðivefur: [http://bragi.arnastofnun.is/](http://bragi.arnastofnun.is/)
 
-Orðasambandsleit:
-http://www.arnastofnun.is/page/gagnasofn_ordasambond
+Orðasambandsleit: [http://www.arnastofnun.is/page/gagnasofn_ordasambond](http://www.arnastofnun.is/page/gagnasofn_ordasambond)
 
-Ritmálssafn Árnastofnunar:
-http://ritmalssafn.arnastofnun.is/#/
+Ritmálssafn Árnastofnunar: [http://ritmalssafn.arnastofnun.is/](http://ritmalssafn.arnastofnun.is/)
