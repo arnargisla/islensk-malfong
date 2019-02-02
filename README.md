@@ -1,5 +1,3 @@
-Orðabók: [https://snara.is/](https://snara.is/)
-
 Leit í gagnasöfnum Árnastofnunar: [https://málið.is](https://málið.is)
 
 Tilvitnanir og fleira, án skýringa: [https://tilvitnun.is](https://tilvitnun.is)
@@ -25,3 +23,5 @@ ISLEX orðabókin, norrænar orðabækur: [http://islex.is/](http://islex.is/)
 Orðasambandsleit: [http://www.arnastofnun.is/page/gagnasofn_ordasambond](http://www.arnastofnun.is/page/gagnasofn_ordasambond)
 
 Ritmálssafn Árnastofnunar: [http://ritmalssafn.arnastofnun.is/](http://ritmalssafn.arnastofnun.is/)
+
+Orðabók: [https://snara.is/](https://snara.is/)
