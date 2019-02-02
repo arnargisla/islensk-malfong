@@ -1,5 +1,3 @@
-## Hlekkir á heimildir um íslenskt mál.
-
 Orðabók: [https://snara.is/](https://snara.is/)
 
 Leit í gagnasöfnum Árnastofnunar: [https://málið.is](https://málið.is)
