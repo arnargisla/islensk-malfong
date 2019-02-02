@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Hlekkir á heimildir um íslenskt mál.
 
-You can use the [editor on GitHub](https://github.com/arnargisla/islenskar-audlindir/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Orðabók: 
+https://snara.is/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Leit í gagnasöfnum Árnastofnunar:
+https://málið.is
 
-### Markdown
+Tilvitnanir og fleira, án skýringa:
+https://tilvitnun.is
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Beygingarlýsing íslensks nútímamáls:
+http://bin.arnastofnun.is
 
-```markdown
-Syntax highlighted code block
+Skrambi: stafsetningarleiðréttingartól:
+http://skrambi.arnastofnun.is/
 
-# Header 1
-## Header 2
-### Header 3
+Yfirlit yfir gagnasöfn á vef Árnastöfnunnar:
+http://www.arnastofnun.is/page/gagnasofn
 
-- Bulleted
-- List
+Íslenskt orðanet:
+http://ordanet.arnastofnun.is/
 
-1. Numbered
-2. List
+íðorðabanki Íslenskrar málstöðvar.
+http://www.ordabanki.hi.is/wordbank/search
 
-**Bold** and _Italic_ and `Code` text
+ISLEX orðabókin, norrænar orðabækur.
+http://islex.is/
 
-[Link](url) and ![Image](src)
-```
+Íslensk málföng:
+http://www.malfong.is/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Íslenskt textasafn:
+http://corpus.arnastofnun.is
 
-### Jekyll Themes
+Óðfræðivefur
+http://bragi.arnastofnun.is/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arnargisla/islenskar-audlindir/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Orðasambandsleit:
+http://www.arnastofnun.is/page/gagnasofn_ordasambond
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ritmálssafn Árnastofnunar:
+http://ritmalssafn.arnastofnun.is/#/
